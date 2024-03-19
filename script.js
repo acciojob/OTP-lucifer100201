@@ -1,5 +1,5 @@
   let inputs= document.querySelectorAll(".code");
-let inputs= document.querySelectorAll(".code");
+
 console.log(inputs);
 
 inputs.forEach((input,index)=>{
