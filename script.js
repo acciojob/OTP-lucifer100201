@@ -1,4 +1,4 @@
-
+  let inputs= document.querySelectorAll(".code");
 let inputs= document.querySelectorAll(".code");
 console.log(inputs);
 
