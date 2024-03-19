@@ -1,4 +1,5 @@
   let inputs= document.querySelectorAll(".code");
+console.log
 
 console.log(inputs);
 
