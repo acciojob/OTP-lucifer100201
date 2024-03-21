@@ -1,7 +1,7 @@
   let inputs= document.querySelectorAll(".code");
-console.log
 
-console.log(inputs);
+
+
 
 inputs.forEach((input,index)=>{
 	input.addEventListener("input",(e)=>{
