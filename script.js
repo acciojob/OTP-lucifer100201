@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+
 
   let inputs = document.querySelectorAll(".code");
 
@@ -35,5 +35,3 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
   });
-
-});
