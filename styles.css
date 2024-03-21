@@ -1,31 +1,28 @@
-/*  your css code here. If applicable */
-#main{
-	width:100%;
-    height:400px;
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-	border:1px solid black;
-	border-radius:7px;
-	padding:5px 20px;
-}
 
-	.code-container {
-    width: 100%;
-    position: relative;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    left: 55px;
-    top: 20px;
-}
+        /* Additional CSS styles specific to this page */
+        #main {
+		    width:80%;
+			margin: 0 auto;
+            border: 1px solid black;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
 
-.code-container input{
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	width:20px;
-	height:30px;
-	margin-inline:5px;
-	padding-left:20px;
-}
+        .box {
+	        text-align: center;
+        }
+
+        .code-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .code-container input {
+			width:30px;
+			text-align:center;
+			height:30px;
+            margin: 0 5px;
+        }
+
