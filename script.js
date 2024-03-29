@@ -6,7 +6,7 @@
 
     input.addEventListener("input", (e) => {
 
-      console.log(e.target.value.length);
+      // console.log(e.target.value.length);
 
       if (e.target.value.length === 1) {
 
